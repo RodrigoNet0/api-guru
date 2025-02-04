@@ -1,16 +1,14 @@
+# 📦 APIGuru
 
+**APIGuru** é uma biblioteca JavaScript/TypeScript que simplifica requisições HTTP usando `fetch`, oferecendo uma interface intuitiva para consumir APIs RESTful com facilidade.
 
-📦 APIGuru
+---
 
+## 🚀 Instalação
 
-APIGuru é uma biblioteca JavaScript/TypeScript que simplifica requisições HTTP usando fetch, oferecendo uma interface intuitiva para consumir APIs RESTful com facilidade.
+Instale via **npm**:
 
-🚀 Instalação
-Instale via npm:
-
-sh
-Copiar
-Editar
+```sh
 npm install apiguru
 Ou via yarn:
 
@@ -64,13 +62,5 @@ configureApiGuru({
 ✅ Configuração global de baseURL e headers
 ✅ Tratamento de erros embutido
 
-🏗️ Contribuindo
-Faça um fork do repositório
-Crie uma branch: git checkout -b minha-feature
-Faça suas alterações e commit: git commit -m "Minha nova feature"
-Envie para o GitHub: git push origin minha-feature
-Abra um Pull Request
 📄 Licença
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
-
-Se precisar de ajustes, é só avisar! 🚀
